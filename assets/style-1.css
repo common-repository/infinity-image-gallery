@@ -1,0 +1,6 @@
+.wppg-grid-item img:hover {
+  opacity: 0.8;
+}
+.item-description {
+  display: none;
+}
